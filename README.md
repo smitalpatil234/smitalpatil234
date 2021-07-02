@@ -2,7 +2,8 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me ...
-        smitalpatil234@gmail.com
+        smitalpatil234@gmail.com                                                
+        
         https://smitalpatil234.github.io/
 
 <!---
