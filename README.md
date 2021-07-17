@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me ...
         smitalpatil234@gmail.com                                                
-        https://smitalpatil234.github.io/
+        Portfolio- https://smitalpatil234.github.io/
 
 <!---
 smitalpatil234/smitalpatil234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
